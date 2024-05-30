@@ -318,7 +318,7 @@ html, body {
  .bg-achievements .achievement-page .container {
      display: flex;
      flex-direction: row;
-     justify-content: space-around;
+     justify-content: center;
      margin-bottom: 10%;
  }
  
@@ -391,6 +391,7 @@ html, body {
  .bg-portfolio .portfolio-page .container {
      display: flex;
      flex-direction: column;
+     align-items: center;
  }
  
  .bg-portfolio .portfolio-page .container .first-row {
